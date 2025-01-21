@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liên Minh Huyền Thoại</title>
+</head>
+<body>
+    <main>
+        <header>
+            <h1>Liên Minh Huyền Thoại</h1>
+            <p>Game chiến thuật thời gian thực nổi tiếng thế giới.</p>
+        </header>
+
+        <section>
+            <h2>Những tướng nổi bật</h2>
+            <ul>
+                <li>Yasuo - Kẻ Bất Dung Thứ</li>
+                <li>Lux - Tiểu Thư Ánh Sáng</li>
+                <li>Lee Sin - Thầy Tu Mù</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Thư viện hình ảnh</h2>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8CO7gneAVHQdpjQHhcUsjDykQUCsKwsmFA&s" alt="Yasuo - Kẻ Bất Dung Thứ" width="300">
+            <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_0.jpg" alt="Lux - Tiểu Thư Ánh Sáng" width="300">
+            <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_0.jpg" alt="Lee Sin - Thầy Tu Mù" width="300">
+        </section>
+
+        <footer>
+            <p>Đọc thêm thông tin về <a href="https://www.leagueoflegends.com/" target="_blank">Liên Minh Huyền Thoại</a>.</p>
+        </footer>
+    </main>
+</body>
+</html>
